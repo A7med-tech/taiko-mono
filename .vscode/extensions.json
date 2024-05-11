@@ -1,6 +1,8 @@
 {
   "recommendations": [
     "NomicFoundation.hardhat-solidity",
+    #gg nothing 
+    /dd
     "tamasfe.even-better-toml"
   ]
 }
